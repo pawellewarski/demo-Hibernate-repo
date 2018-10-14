@@ -9,5 +9,4 @@ public interface ReservationRepository extends CrudRepository<ReservationModel, 
 
 
 
-
 }
